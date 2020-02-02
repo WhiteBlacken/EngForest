@@ -403,7 +403,7 @@ persistence
 
     comprise
 
-## 五官——看
+## 五官——眼睛
 ### spect 看
 * special
 * specialist
@@ -467,9 +467,137 @@ adj.可疑的
 suspicion
 n.怀疑
 skepticism
+怀疑主义，怀疑论
+skeptical
+skeptic
+怀疑者
+
+怀疑
+>suspicious
+skeptical
 doubtful
 dubious
+questionable
 
+* perspective
+per 方向感：贯穿through
+引申含义：全都all
+透视图、角度
+from different perspectives = from different aspects
+* conspicious
+大家都能看见的=adj.manifest
+as is conspiciously depicted in the image
+conspicious consumption
+* conspectus
+physics conspectus
+
+
+### vis/ware 看
+* view
+* visit-itinerary
+* visual
+visual art
+visualize
+visible spectrum
+* revise
+revise mode 修订模式
+review
+(把书反复看)=v.复习，**审查**
+* evision
+超越视觉的=v.想象、构想（脑补）
+* survey
+* supervise
+supervisor
+* aware
+be aware of
+awareness n.意识（心理）
+consciousness n.意识（胜利）
+* wary
+一直看
+be wary of
+pet dogs are wary of unwanted intruders
+
+## 五官--耳朵
+### phone 声音
+* phonic
+声音的
+* monophonic
+单声道的
+* homophone
+the same sound
+同音词（write/right）
+homesexual
+homogeneous
+* symphony
+sym=the same
+交响乐
+* euphony
+eu=good
+good sound
+悦耳之音、天籁
+
+### sound/son 声音
+* sonic
+* supersonic
+* subsonic
+* unison
+uni/homo/mono/solo
+uni sound
+和谐，一致
+dissonance
+失调（diao乐器）
+congnitive dissonance
+认知失调
+
+### audi 听
+* audio/video
+* inaudible
+* audience
+* auditorium
+ium = place
+stadium
+* audit
+审计
+
+## 五官--嘴
+### dict 说
+* indict
+* verdict
+* predict
+* indicate
+* dedicate
+de-向下、恶化、强调
+奉献
+* dictationary
+* dictate
+（妈妈说，你来写）=v.听写
+dictator
+1. （日常）听写者
+2. （政治）独裁者->the great dictator
+* addict
+addictive
+addicted
+addiction
+He is deeply addicted to drugs.
+The drug is quite addictive.
+He indulges himself in CG.
+* controdict
+自相矛盾的
+you actions controdict his words/principles
+
+contrary
+on the contrary
+相反
+
+contrast
+by contrast(用两幅图的对比)
+
+controversy
+（观点）是相反的 争论dispute
+
+contra->魂斗罗（对着干）
+
+### log 说
 
 ## 书
 1. front cover
@@ -480,6 +608,7 @@ dubious
 6. appendix
 7. index
 8. back cover
+
 
 2020/1/16
 * 词林1：地铁Metro
